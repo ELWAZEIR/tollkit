@@ -10,7 +10,7 @@ server.db = router.db;
 
 // إعداد قواعد الصلاحيات
 const rules = auth.rewriter({
-  users: 600,
+  users: 644,
   products: 644,
   categories: 644,
   orders: 660
