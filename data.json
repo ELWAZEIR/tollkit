@@ -41,263 +41,264 @@
     }
   ],
   "products": [
-    {
-      "id": 1,
-      "title": "Slim Fit Cotton Shirt",
-      "price": 299,
-      "cat_prefix": "men",
-      "img": "https://images.pexels.com/photos/6303491/pexels-photo-6303491.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 2
-    },
-    {
-      "id": 2,
-      "title": "Casual T-Shirt",
-      "price": 199,
-      "cat_prefix": "men",
-      "img": "https://images.pexels.com/photos/32435806/pexels-photo-32435806/free-photo-of-man-enjoying-ocean-view-on-a-sunny-day.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 3,
-      "title": "Denim Jacket",
-      "price": 499,
-      "cat_prefix": "men",
-      "img": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "max": 5
-    },
-    {
-      "id": 4,
-      "title": "Classic Suit",
-      "price": 999,
-      "cat_prefix": "men",
-      "img": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "max": 1
-    },
-    {
-      "id": 3094,
-      "title": "Classic Suit",
-      "price": 1200,
-      "cat_prefix": "men",
-      "img": "https://images.unsplash.com/photo-1593030103066-0093718efeb9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
-      "max": 3
-    },
-    {
-      "id": 5,
-      "title": "Running Sneakers",
-      "price": 550,
-      "cat_prefix": "men",
-      "img": "https://images.pexels.com/photos/11484/pexels-photo-11484.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "max": 3
-    },
-    {
-      "id": 6,
-      "title": "Printed Summer Dress",
-      "price": 350,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/458766/pexels-photo-458766.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "max": 2
-    },
-    {
-      "id": 7,
-      "title": "Casual Blouse",
-      "price": 220,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/32475997/pexels-photo-32475997/free-photo-of-woman-exploring-rustic-stone-alleyway.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 1
-    },
-    {
-      "id": 8,
-      "title": "Long Coat",
-      "price": 700,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/179909/pexels-photo-179909.jpeg?auto=compress&cs=tinysrgb&w=600",
-      "max": 2
-    },
-    {
-      "id": 9,
-      "title": "High Heels",
-      "price": 480,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/3076787/pexels-photo-3076787.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 3
-    },
-    {
-      "id": 9320,
-      "title": "High Heels",
-      "price": 730,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/3682292/pexels-photo-3682292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      "max": 2
-    },
-    {
-      "id": 2980,
-      "title": "High Heels",
-      "price": 333,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/3389419/pexels-photo-3389419.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 10,
-      "title": "Skinny Jeans",
-      "price": 280,
-      "cat_prefix": "women",
-      "img": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
-      "max": 1
-    },
-    {
-      "id": 11,
-      "title": "Kids Cotton Hoodie",
-      "price": 200,
-      "cat_prefix": "kids",
-      "img": "https://images.pexels.com/photos/1620812/pexels-photo-1620812.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 12,
-      "title": "Cartoon Printed T-Shirt",
-      "price": 150,
-      "cat_prefix": "kids",
-      "img": "https://images.pexels.com/photos/32453521/pexels-photo-32453521/free-photo-of-smiling-child-with-glasses-reaching-forward-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 13,
-      "title": "Boys Denim Shorts",
-      "price": 170,
-      "cat_prefix": "kids",
-      "img": "https://images.pexels.com/photos/1619720/pexels-photo-1619720.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 14,
-      "title": "Girls Summer Dress",
-      "price": 250,
-      "cat_prefix": "kids",
-      "img": "https://images.pexels.com/photos/18863554/pexels-photo-18863554/free-photo-of-child-posing-in-pyjamas.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 15,
-      "title": "Toddler Pajamas Set",
-      "price": 220,
-      "cat_prefix": "kids",
-      "img": "https://images.pexels.com/photos/4711733/pexels-photo-4711733.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 16,
-      "title": "Baby Jumpsuit",
-      "price": 180,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/459976/pexels-photo-459976.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 17,
-      "title": "Baby Winter Jacket",
-      "price": 300,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/459957/pexels-photo-459957.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 18,
-      "title": "Cotton Rompers",
-      "price": 200,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/1166473/pexels-photo-1166473.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 19,
-      "title": "Baby Shoes",
-      "price": 130,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/929436/pexels-photo-929436.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 1219,
-      "title": "Baby Shoes",
-      "price": 130,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/1652117/pexels-photo-1652117.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 1219,
-      "title": "Baby Shoes",
-      "price": 130,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/1648374/pexels-photo-1648374.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 1219,
-      "title": "Baby Shoes",
-      "price": 130,
-      "cat_prefix": "baby",
-      "img": "https://images.pexels.com/photos/36039/baby-twins-brother-and-sister-one-hundred-days.jpg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 20,
-      "title": "Athletic Running Shoes",
-      "price": 600,
-      "cat_prefix": "sport",
-      "img": "https://media.istockphoto.com/id/1319189368/photo/mid-adult-man-is-listening-to-music-in-park.jpg?b=1&s=612x612&w=0&k=20&c=OMel1o7UwMK7J5FNq5sgNmZXSrgB51agwdtxj7KrhW8=",
-      "max": 4
-    },
-    {
-      "id": 21,
-      "title": "Gym Sweatshirt",
-      "price": 400,
-      "cat_prefix": "sport",
-      "img": "https://media.istockphoto.com/id/1293388093/photo/two-men-exercising.jpg?b=1&s=612x612&w=0&k=20&c=Z0QZRfy8F7pwrvMEwpBYkVwXdtge1pSSEmz1X6V4aWU=",
-      "max": 4
-    },
-    {
-      "id": 22,
-      "title": "Compression Leggings",
-      "price": 350,
-      "cat_prefix": "sport",
-      "img": "https://images.pexels.com/photos/5039659/pexels-photo-5039659.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 22,
-      "title": "Compression Leggings",
-      "price": 350,
-      "cat_prefix": "sport",
-      "img": "https://images.pexels.com/photos/32458656/pexels-photo-32458656/free-photo-of-runner-at-marathon-with-confetti-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 22,
-      "title": "Compression Leggings",
-      "price": 350,
-      "cat_prefix": "sport",
-      "img": "https://images.pexels.com/photos/10737735/pexels-photo-10737735.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    },
-    {
-      "id": 22,
-      "title": "Compression Leggings",
-      "price": 350,
-      "cat_prefix": "sport",
-      "img": "https://media.istockphoto.com/id/1149241593/photo/man-doing-cross-training-exercise-with-rope.jpg?b=1&s=612x612&w=0&k=20&c=FwBfPs0BnJYvrRuJvsPWT7o7gqiXSXQlBV751NA3xxA=",
-      "max": 4
-    },
-    {
-      "id": 23,
-      "title": "Basketball Jersey",
-      "price": 500,
-      "cat_prefix": "sport",
-      "img": "https://images.pexels.com/photos/163403/box-sport-men-training-163403.jpeg?auto=compress&cs=tinysrgb&w=1200",
-      "max": 4
-    }
-  ],
+  {
+    "id": 1,
+    "title": "Slim Fit Cotton Shirt",
+    "price": 299,
+    "cat_prefix": "men",
+    "img": "https://images.pexels.com/photos/6303491/pexels-photo-6303491.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 2
+  },
+  {
+    "id": 2,
+    "title": "Casual T-Shirt",
+    "price": 199,
+    "cat_prefix": "men",
+    "img": "https://images.pexels.com/photos/32435806/pexels-photo-32435806/free-photo-of-man-enjoying-ocean-view-on-a-sunny-day.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 3,
+    "title": "Denim Jacket",
+    "price": 499,
+    "cat_prefix": "men",
+    "img": "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max": 5
+  },
+  {
+    "id": 4,
+    "title": "Classic Business Suit",
+    "price": 999,
+    "cat_prefix": "men",
+    "img": "https://images.pexels.com/photos/292999/pexels-photo-292999.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max": 1
+  },
+  {
+    "id": 5,
+    "title": "Formal Navy Suit",
+    "price": 1200,
+    "cat_prefix": "men",
+    "img": "https://images.unsplash.com/photo-1593030103066-0093718efeb9?ixlib=rb-4.0.3&auto=format&fit=crop&w=600&q=80",
+    "max": 3
+  },
+  {
+    "id": 6,
+    "title": "Running Sneakers",
+    "price": 550,
+    "cat_prefix": "men",
+    "img": "https://images.pexels.com/photos/11484/pexels-photo-11484.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max": 3
+  },
+  {
+    "id": 7,
+    "title": "Printed Summer Dress",
+    "price": 350,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/458766/pexels-photo-458766.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max": 2
+  },
+  {
+    "id": 8,
+    "title": "Chic Casual Blouse",
+    "price": 220,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/32475997/pexels-photo-32475997/free-photo-of-woman-exploring-rustic-stone-alleyway.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 1
+  },
+  {
+    "id": 9,
+    "title": "Long Winter Coat",
+    "price": 700,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/179909/pexels-photo-179909.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "max": 2
+  },
+  {
+    "id": 10,
+    "title": "Elegant High Heels",
+    "price": 480,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/3076787/pexels-photo-3076787.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 3
+  },
+  {
+    "id": 11,
+    "title": "Stylish High Heels",
+    "price": 730,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/3682292/pexels-photo-3682292.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+    "max": 2
+  },
+  {
+    "id": 12,
+    "title": "Party High Heels",
+    "price": 333,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/3389419/pexels-photo-3389419.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 13,
+    "title": "Skinny Jeans",
+    "price": 280,
+    "cat_prefix": "women",
+    "img": "https://images.pexels.com/photos/19090/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=600",
+    "max": 1
+  },
+  {
+    "id": 14,
+    "title": "Kids Cotton Hoodie",
+    "price": 200,
+    "cat_prefix": "kids",
+    "img": "https://images.pexels.com/photos/1620812/pexels-photo-1620812.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 15,
+    "title": "Cartoon T-Shirt",
+    "price": 150,
+    "cat_prefix": "kids",
+    "img": "https://images.pexels.com/photos/32453521/pexels-photo-32453521/free-photo-of-smiling-child-with-glasses-reaching-forward-outdoors.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 16,
+    "title": "Boys Shorts",
+    "price": 170,
+    "cat_prefix": "kids",
+    "img": "https://images.pexels.com/photos/1619720/pexels-photo-1619720.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 17,
+    "title": "Girls Dress",
+    "price": 250,
+    "cat_prefix": "kids",
+    "img": "https://images.pexels.com/photos/18863554/pexels-photo-18863554/free-photo-of-child-posing-in-pyjamas.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 18,
+    "title": "Toddler Pajama Set",
+    "price": 220,
+    "cat_prefix": "kids",
+    "img": "https://images.pexels.com/photos/4711733/pexels-photo-4711733.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 19,
+    "title": "Cozy Baby Jumpsuit",
+    "price": 180,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/459976/pexels-photo-459976.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 20,
+    "title": "Baby Winter Coat",
+    "price": 300,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/459957/pexels-photo-459957.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 21,
+    "title": "Cotton Romper Pack",
+    "price": 200,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/1166473/pexels-photo-1166473.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 22,
+    "title": "Newborn Shoes",
+    "price": 130,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/929436/pexels-photo-929436.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 23,
+    "title": "Infant Shoes - Set 1",
+    "price": 130,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/1652117/pexels-photo-1652117.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 24,
+    "title": "Infant Shoes - Set 2",
+    "price": 130,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/1648374/pexels-photo-1648374.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 25,
+    "title": "Twin Baby Shoes",
+    "price": 130,
+    "cat_prefix": "baby",
+    "img": "https://images.pexels.com/photos/36039/baby-twins-brother-and-sister-one-hundred-days.jpg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 26,
+    "title": "Athletic Running Shoes",
+    "price": 600,
+    "cat_prefix": "sport",
+    "img": "https://media.istockphoto.com/id/1319189368/photo/mid-adult-man-is-listening-to-music-in-park.jpg?b=1&s=612x612&w=0&k=20&c=OMel1o7UwMK7J5FNq5sgNmZXSrgB51agwdtxj7KrhW8=",
+    "max": 4
+  },
+  {
+    "id": 27,
+    "title": "Gym Sweatshirt",
+    "price": 400,
+    "cat_prefix": "sport",
+    "img": "https://media.istockphoto.com/id/1293388093/photo/two-men-exercising.jpg?b=1&s=612x612&w=0&k=20&c=Z0QZRfy8F7pwrvMEwpBYkVwXdtge1pSSEmz1X6V4aWU=",
+    "max": 4
+  },
+  {
+    "id": 28,
+    "title": "Compression Leggings - Gray",
+    "price": 350,
+    "cat_prefix": "sport",
+    "img": "https://images.pexels.com/photos/5039659/pexels-photo-5039659.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 29,
+    "title": "Compression Leggings - Marathon",
+    "price": 350,
+    "cat_prefix": "sport",
+    "img": "https://images.pexels.com/photos/32458656/pexels-photo-32458656/free-photo-of-runner-at-marathon-with-confetti-on-street.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 30,
+    "title": "Compression Leggings - Black",
+    "price": 350,
+    "cat_prefix": "sport",
+    "img": "https://images.pexels.com/photos/10737735/pexels-photo-10737735.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  },
+  {
+    "id": 31,
+    "title": "CrossFit Leggings",
+    "price": 350,
+    "cat_prefix": "sport",
+    "img": "https://media.istockphoto.com/id/1149241593/photo/man-doing-cross-training-exercise-with-rope.jpg?b=1&s=612x612&w=0&k=20&c=FwBfPs0BnJYvrRuJvsPWT7o7gqiXSXQlBV751NA3xxA=",
+    "max": 4
+  },
+  {
+    "id": 32,
+    "title": "Basketball Jersey",
+    "price": 500,
+    "cat_prefix": "sport",
+    "img": "https://images.pexels.com/photos/163403/box-sport-men-training-163403.jpeg?auto=compress&cs=tinysrgb&w=1200",
+    "max": 4
+  }
+]
+,
   "wishlist": [],
   "orders": [
     {
